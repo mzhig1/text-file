@@ -1,3 +1,5 @@
 the word
 the big
 the small
+the huge
+the tiny
